@@ -1,8 +1,8 @@
 # 🤖 Tarea de Aplicaciones IA
-**Curso:** Inteligencia Artificial y Mini-Robots
-**Autor:** David Camilo Guzmán Guerrero
-**Fecha de Entrega:** Julio 2025
-**Repositorio:** Enlace a GitHub
+**Curso:** Inteligencia Artificial y Mini-Robots  
+**Autor:** David Camilo Guzmán Guerrero  
+**Fecha de Entrega:** Julio 2025  
+**Repositorio:** [Enlace a GitHub](https://github.com/lmao813/Tarea_AplicacionesIA)
 
 ## 📚 Contenido
 - **Ejercicio 1:** Agente de IA para gestión de tareas del curso
