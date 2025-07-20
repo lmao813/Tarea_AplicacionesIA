@@ -59,14 +59,6 @@ Este ejercicio tiene como objetivo realizar un estudio comparativo de herramient
 
 ---
 
-## 💡 Conclusión
-
-El ecosistema de herramientas de IA gratuitas es cada vez más amplio y diverso. Muchas de estas opciones permiten a estudiantes, docentes y creadores experimentar con tecnologías avanzadas **sin costo alguno**, al menos con ciertas limitaciones.  
-
-Cada herramienta tiene enfoques distintos: algunas están optimizadas para precisión, otras para creatividad, y otras para accesibilidad. El uso combinado de estas puede formar una **suite poderosa para tareas educativas o creativas** sin necesidad de licencias pagas.
-
----
-
 ## 🧩 Recomendaciones
 
 - **Texto (resumen/generación):** Claude o ChatGPT 3.5  
