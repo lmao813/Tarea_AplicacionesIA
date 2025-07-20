@@ -1,5 +1,4 @@
 # 📝 Estudio de herramientas IA gratuitas para generación y procesamiento de contenido  
----
 
 ## 📌 Descripción del ejercicio
 Este ejercicio tiene como objetivo realizar un estudio comparativo de herramientas de inteligencia artificial **gratuitas** (costo $0), enfocadas en cinco tareas principales:
@@ -65,5 +64,3 @@ Este ejercicio tiene como objetivo realizar un estudio comparativo de herramient
 - **Imágenes:** Bing Image Creator (DALL·E 3)  
 - **Audio:** ElevenLabs o TTSMP3  
 - **Video:** Runway ML (versión gratuita para pruebas)  
-
----
