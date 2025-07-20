@@ -10,7 +10,7 @@ El sistema debía ser conversacional y ofrecer respuestas a preguntas como:
 
 ## ⚙️ Desarrollo del ejercicio
 Se optó por una solución liviana, de consola, basada únicamente en Python y librerías estándar de Machine Learning:
-- Carga de contexto
+- **Carga de contexto:**  
 Se cargó el texto completo de la Resolución del calendario académico 2025, incluyendo:
   - Fechas de inscripción de materias
   - Inicio/finalización de clases
@@ -19,12 +19,12 @@ Se cargó el texto completo de la Resolución del calendario académico 2025, in
   - Exámenes de admisión
   - Ceremonias de grado y excepciones para posgrado.
 
-- Modelo de recuperación
+- **Modelo de recuperación:**  
 Se implementó un sistema de recuperación basado en TF-IDF con scikit-learn.  
 Cada línea relevante del calendario fue considerada como un "documento" independiente.  
 Cuando el usuario hace una consulta, se calcula la similitud coseno entre su pregunta y los fragmentos, y se retorna el más similar.
 
-- Interfaz de consola
+- **Interfaz de consola:**  
 Se desarrolló una interfaz de consola tipo chatbot.  
 El usuario puede hacer preguntas en lenguaje natural y recibir respuestas extraídas del contexto cargado.
 
